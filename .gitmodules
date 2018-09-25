@@ -1,0 +1,4 @@
+[submodule "cityscapesScripts"]
+	path = cityscapesScripts
+	url = git@github.com:hiwonjoon/cityscapesScripts.git
+	branch = master
